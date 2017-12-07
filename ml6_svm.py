@@ -1,5 +1,5 @@
 """
-SUPPORT VECTOR MACHINES
+SUPPORT VECTOR MACHINE
 Using UCI breast cancer data: http://archive.ics.uci.edu/ml/datasets/
 	Class: 2 = benign, 4 = malignant
 	Missing attributes denoted by '?'
